@@ -1,0 +1,2 @@
+employee_code,first_name,last_name,email,department,designation,join_date,basic_salary,hra,allowance
+EMP-004,John,Doe,john@example.com,Engineering,Software Engineer,2026-09-01,50000,15000,5000

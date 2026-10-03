@@ -1,0 +1,4 @@
+employee_code,attendance_date,status,check_in,check_out
+EMP-001,2026-09-19,Present,09:00:00,18:00:00
+EMP-002,2026-09-19,Late,09:25:00,18:30:00
+EMP-003,2026-09-19,Absent,,
